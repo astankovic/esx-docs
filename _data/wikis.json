@@ -1,5 +1,13 @@
 [
   {
+    "org": "honojs",
+    "repo": "hono",
+    "path": "honojs-hono",
+    "label": "hono Guide",
+    "docType": "functional",
+    "source": "github"
+  },
+  {
     "org": "lukevella",
     "repo": "rallly",
     "path": "lukevella-rallly",
