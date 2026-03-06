@@ -14,5 +14,13 @@
     "label": "rallly Guide",
     "docType": "functional",
     "source": "github"
+  },
+  {
+    "org": "sandygudie",
+    "repo": "Kanban-App",
+    "path": "sandygudie-Kanban-App",
+    "label": "Kanban-App Guide",
+    "docType": "functional",
+    "source": "github"
   }
 ]
